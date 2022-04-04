@@ -1,0 +1,11 @@
+main{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    /* background-color: red; */
+}
+
+.bulbs{
+    margin-top: 200px;
+    align-items: center;
+}
